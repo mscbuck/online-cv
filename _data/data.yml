@@ -15,7 +15,6 @@ sidebar:
     email: hello@webjeda.com
     phone: 012 345 6789
     website: blog.webjeda.com #do not add http://
-    link: download.jjs.cv.com
     linkedin: alandoe
     github: sharu725
     gitlab:
@@ -49,7 +48,7 @@ career-profile:
     title: Career Profile
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
+      adipiscing elit. You can [download this free resume/CV template here](http://www.linktojjscsv.com).
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
